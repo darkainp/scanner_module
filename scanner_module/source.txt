@@ -1,0 +1,51 @@
+0,e-123
+
+::As @: abc::
+
+::As @ abc::
+::as @@ abd::
+
+:
+:
+
+:	:
+
+:@:
+
+:@@:
+:::
+:@::
+
+123e
+123eeee
+0x12F
+0x12OPPP
+0x
+0,f
+0,,f
+e
+e-
+-
+0,12ef 
+0,e123
+0,ef-x
+0,e-f32
+1 23 756
+.0
+,0
+0,12e3
+0,31e-12
+0,e
+
+?234
+
+??asd
+asd
+??str  yes
+this
+that
+%abc
+y/n
+yes
+no
+1awe
